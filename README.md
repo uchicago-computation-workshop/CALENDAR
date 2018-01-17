@@ -16,7 +16,7 @@
 <div><img src="https://sfi-edu.s3.amazonaws.com/sfi-edu/production/uploads/people/images/Luis-Bettencourt-sepia-400x400_6775bb.jpg.400x400_q85_box-0%2C0%2C400%2C400_upscale.jpg" width="200" height="200"></div>
 
 ###### Professor of Ecology and Evolution, Pritzker Director of the Mansueto Institute for Urban Innovation, University of Chicago
-##### *Information, Spatial Selection, and the Statistics of Neighborhoods*
+##### [*Information, Spatial Selection, and the Statistics of Neighborhoods*](https://github.com/uchicago-computation-workshop/luis_bettencourt)
 
 
 
@@ -25,7 +25,7 @@
 <div><img src="http://people.cs.uchicago.edu/~ravenben/images/ben-sf.jpg" width="200" height="200"></div>
 
 ###### Neubauer Professor of Computer Science, Co-Director at the Systems, Algorithms, Networking, and Data Lab, University of Chicago
-##### *Gender Bias in the Job Market: A Longitudinal Analysis*
+##### [*Gender Bias in the Job Market: A Longitudinal Analysis*](https://github.com/uchicago-computation-workshop/ben_zhao)
 
 
 
@@ -34,23 +34,22 @@
 <div><img src="http://cnets.indiana.edu/wp-content/uploads/2015/12/Santo-Fortunato.jpg" width="200" height="200"></div>
 
 ###### Professor in the School of Informatics and Computing, Director of the Center for Complex Networks and Systems Research, Indiana University - Bloomington
-##### *Science of Science: University, Reputation, Attention, Inflation, and Novelty*
+##### [*Science of Science: University, Reputation, Attention, Inflation, and Novelty*](https://github.com/uchicago-computation-workshop/santo_fortunato)
 
 
 
+### November 9th - [Damon Centola](https://www.asc.upenn.edu/people/faculty/damon-centola-phd)
 
-<h3 class=pfblock-header4>November 9th </h3>
-<h3 class=pfblock-header4><a href="https://www.asc.upenn.edu/people/faculty/damon-centola-phd"> Damon Centola </a> </h3>
-<h6 class=pfblock-header4>Associate Professor in the Annenberg School for Communication, Director of the Network Dynamics Group at the</h6>
-<h5 class=pfblock-header4>University of Pennsylvania</h5>
-<br>
+<div><img src="https://www.asc.upenn.edu/sites/default/files/styles/landing_page_into_medium_small_width/public/media-youtube/TLyQ3fz33X4.jpg?itok=yuFWHupv" width="200" height="200"></div>
 
-
-<h3 class=pfblock-header4>November 16th </h3>
-<h3 class=pfblock-header4><a href="https://humdev.uchicago.edu/directory/guanglei-hong"> Guanglei Hong </a> </h3>
-<h6 class=pfblock-header4>Associate Professor of Comparative Human Development, Executive Committee for Computational Social Science at the</h6>
-<h5 class=pfblock-header4>University of Chicago</h5>
-<br>
+###### Associate Professor in the Annenberg School for Communication, Director of the Network Dynamics Group, University of Pennsylvania
+##### [*Network Dynamics of Social Influence in the Wisdom of Crowds*](https://github.com/uchicago-computation-workshop/damon_centola)
 
 
-<br>
+
+### November 16th - [Guanglei Hong](https://humdev.uchicago.edu/sites/humdev.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/2009_Hong_Guanglei_DSC9551.jpg?itok=RrcV8EOU)
+
+<div><img src="https://www.asc.upenn.edu/sites/default/files/styles/landing_page_into_medium_small_width/public/media-youtube/TLyQ3fz33X4.jpg?itok=yuFWHupv" width="200" height="200"></div>
+
+###### Associate Professor of Comparative Human Development, Executive Committee for Computational Social Science, University of Chicago
+##### [*Unpacking Between-Site Heterogeneity in Complex Causal Mechanisms: The National Job Corps Study*](https://github.com/uchicago-computation-workshop/guanglei_hong)
