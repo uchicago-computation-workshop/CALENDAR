@@ -18,10 +18,11 @@
 ##### University of Chicago
 
 
-### October 12th
-### [Ben Zhao](http://people.cs.uchicago.edu/~ravenben/)
+### October 12th - [Ben Zhao](http://people.cs.uchicago.edu/~ravenben/)
 > **Neubauer Professor of Computer Science**
+
 > **Co-Director at the Systems, Algorithms, Networking, and Data Lab**
+
 > *University of Chicago*
 
 
