@@ -1,5 +1,3 @@
-![](https://macss.uchicago.edu/sites/macss.uchicago.edu/files/styles/homefeature-large/public/RichardEvans-2.jpg?itok=VI0kmVah)
-
 # Computational Social Science Workshop Calendar
 
 ## Winter 2018
