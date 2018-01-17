@@ -40,16 +40,16 @@
 
 ### November 9th - [Damon Centola](https://www.asc.upenn.edu/people/faculty/damon-centola-phd)
 
-<div><img src="https://www.asc.upenn.edu/sites/default/files/styles/landing_page_into_medium_small_width/public/media-youtube/TLyQ3fz33X4.jpg?itok=yuFWHupv" width="200" height="200"></div>
+<div><img src="https://en.wikipedia.org/wiki/Damon_Centola#/media/File:Damon_Centola.jpg" width="200" height="200"></div>
 
 ###### Associate Professor in the Annenberg School for Communication, Director of the Network Dynamics Group, University of Pennsylvania
 ##### [*Network Dynamics of Social Influence in the Wisdom of Crowds*](https://github.com/uchicago-computation-workshop/damon_centola)
 
 
 
-### November 16th - [Guanglei Hong](https://humdev.uchicago.edu/sites/humdev.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/2009_Hong_Guanglei_DSC9551.jpg?itok=RrcV8EOU)
+### November 16th - [Guanglei Hong](https://humdev.uchicago.edu/directory/guanglei-hong)
 
-<div><img src="https://www.asc.upenn.edu/sites/default/files/styles/landing_page_into_medium_small_width/public/media-youtube/TLyQ3fz33X4.jpg?itok=yuFWHupv" width="200" height="200"></div>
+<div><img src="https://humdev.uchicago.edu/sites/humdev.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/2009_Hong_Guanglei_DSC9551.jpg?itok=RrcV8EOU" width="200" height="200"></div>
 
 ###### Associate Professor of Comparative Human Development, Executive Committee for Computational Social Science, University of Chicago
 ##### [*Unpacking Between-Site Heterogeneity in Complex Causal Mechanisms: The National Job Corps Study*](https://github.com/uchicago-computation-workshop/guanglei_hong)
