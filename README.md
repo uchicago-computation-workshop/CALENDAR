@@ -19,9 +19,9 @@
 
 
 ### October 12th - [Ben Zhao](http://people.cs.uchicago.edu/~ravenben/)
-**Neubauer Professor of Computer Science**
-**Co-Director at the Systems, Algorithms, Networking, and Data Lab**
-*University of Chicago*
+![](http://people.cs.uchicago.edu/~ravenben/images/ben-sf.jpg)
+**Neubauer Professor of Computer Science, Co-Director at the Systems, Algorithms, Networking, and Data Lab, University of Chicago**
+*Title of Talk*
 
 
 ### October 12th
