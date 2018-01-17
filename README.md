@@ -22,8 +22,7 @@
 <br>
 <img src="http://people.cs.uchicago.edu/~ravenben/images/ben-sf.jpg" width="200" height="200">
 <br>
-
-###### Neubauer Professor of Computer Science, Co-Director at the Systems, Algorithms, Networking, and Data Lab, University of Chicago**
+###### Neubauer Professor of Computer Science, Co-Director at the Systems, Algorithms, Networking, and Data Lab, University of Chicago
 ##### *Title of Talk*
 
 
