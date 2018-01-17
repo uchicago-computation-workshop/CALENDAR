@@ -4,6 +4,45 @@
 
 ## Winter 2018
 
+### Thursday's, 11:00am-12:20pm, Kent 120
+
+
+
+### January 11th - [Ali Hortaçsu](https://economics.uchicago.edu/directory/ali-hortacsu)
+
+<div><img src="https://economics.uchicago.edu/sites/economics.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/hortacsu.jpg?itok=iDVN8HH2" width="200" height="200"></div>
+
+###### The Ralph and Mary Otis Isham Professor in Economics and the College, University of Chicago
+##### [*Trade, Merchants, and the Lost Cities of the Bronze Age*](https://github.com/uchicago-computation-workshop/ali_hortacsu)
+
+
+
+### January 18th - [Anna Mueller](http://humdev.uchicago.edu/directory/anna-mueller)
+
+<div><img src="https://newfaculty.uchicago.edu/sites/newfaculty.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/Mueller%201.jpeg?itok=6YHUkfwk" width="200" height="200"></div>
+
+###### Assistant Professor, Department of Comparative Human Development and the College, University of Chicago
+##### [*Why Networks Matter to Suicide: Examining the Cultural Underpinnings of Suicide Diffusion in Adolescence*](https://github.com/uchicago-computation-workshop/anna_mueller)
+
+
+
+### January 25th - [James Evans](https://macss.uchicago.edu/directory/james-evans)
+
+<div><img src="https://d3qi0qp55mx5f5.cloudfront.net/knowledgelab/i/manipulated/https_d3qi0qp55mx5f5.cloudfront.net/knowledgelab/i/people/4a3643b9d000cc45ff274072307f5bfe/JamesEvans.jpg" width="200" height="200"></div>
+
+###### Director, Knowledge Lab; Professor, Sociology, University of Chicago; Senior Fellow, Computation Institute; Faculty Director, Masters Program in Computational Social Sciences, University of Chicago
+##### [*The Wisdom of Polarized Crowds*](https://github.com/uchicago-computation-workshop/james_evans)
+
+
+
+### February 1st - [Richard Evans](https://macss.uchicago.edu/directory/rick-evans)
+
+<div><img src="https://macss.uchicago.edu/sites/macss.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/rick.png" width="200" height="200"></div>
+
+###### Senior Lecturer in Computational Social Science; Director, Open Source Macroeconomics Laboratory; Fellow, Becker Friedman Institute, University of Chicago
+##### [*Open Source Modeling for Policy Analysis and Research*](https://github.com/uchicago-computation-workshop/richard_evans)
+
+
 
 ## Fall 2017
 
