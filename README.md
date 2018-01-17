@@ -14,6 +14,7 @@
 
 ###### The Ralph and Mary Otis Isham Professor in Economics and the College, University of Chicago
 ##### [*Trade, Merchants, and the Lost Cities of the Bronze Age*](https://github.com/uchicago-computation-workshop/ali_hortacsu)
+<br>
 
 
 
@@ -23,15 +24,17 @@
 
 ###### Assistant Professor, Department of Comparative Human Development and the College, University of Chicago
 ##### [*Why Networks Matter to Suicide: Examining the Cultural Underpinnings of Suicide Diffusion in Adolescence*](https://github.com/uchicago-computation-workshop/anna_mueller)
+<br>
 
 
 
 ### January 25th - [James Evans](https://macss.uchicago.edu/directory/james-evans)
 
-<div><img src="https://d3qi0qp55mx5f5.cloudfront.net/knowledgelab/i/manipulated/https_d3qi0qp55mx5f5.cloudfront.net/knowledgelab/i/people/4a3643b9d000cc45ff274072307f5bfe/JamesEvans.jpg" width="200" height="200"></div>
+<div><img src="https://macss.uchicago.edu/sites/macss.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/JamesEvans_0.jpg" width="200" height="200"></div>
 
 ###### Director, Knowledge Lab; Professor, Sociology, University of Chicago; Senior Fellow, Computation Institute; Faculty Director, Masters Program in Computational Social Sciences, University of Chicago
 ##### [*The Wisdom of Polarized Crowds*](https://github.com/uchicago-computation-workshop/james_evans)
+<br>
 
 
 
@@ -41,6 +44,7 @@
 
 ###### Senior Lecturer in Computational Social Science; Director, Open Source Macroeconomics Laboratory; Fellow, Becker Friedman Institute, University of Chicago
 ##### [*Open Source Modeling for Policy Analysis and Research*](https://github.com/uchicago-computation-workshop/richard_evans)
+<br>
 
 
 
@@ -56,7 +60,7 @@
 
 ###### Professor of Ecology and Evolution, Pritzker Director of the Mansueto Institute for Urban Innovation, University of Chicago
 ##### [*Information, Spatial Selection, and the Statistics of Neighborhoods*](https://github.com/uchicago-computation-workshop/luis_bettencourt)
-
+<br>
 
 
 ### October 12th - [Ben Zhao](http://people.cs.uchicago.edu/~ravenben/)
@@ -65,7 +69,7 @@
 
 ###### Neubauer Professor of Computer Science, Co-Director at the Systems, Algorithms, Networking, and Data Lab, University of Chicago
 ##### [*Gender Bias in the Job Market: A Longitudinal Analysis*](https://github.com/uchicago-computation-workshop/ben_zhao)
-
+<br>
 
 
 ### October 26th - [Santo Fortunato](http://cnets.indiana.edu/people/santo-fortunato/")
@@ -74,7 +78,7 @@
 
 ###### Professor in the School of Informatics and Computing, Director of the Center for Complex Networks and Systems Research, Indiana University - Bloomington
 ##### [*Science of Science: University, Reputation, Attention, Inflation, and Novelty*](https://github.com/uchicago-computation-workshop/santo_fortunato)
-
+<br>
 
 
 ### November 9th - [Damon Centola](https://www.asc.upenn.edu/people/faculty/damon-centola-phd)
@@ -83,7 +87,7 @@
 
 ###### Associate Professor in the Annenberg School for Communication, Director of the Network Dynamics Group, University of Pennsylvania
 ##### [*Network Dynamics of Social Influence in the Wisdom of Crowds*](https://github.com/uchicago-computation-workshop/damon_centola)
-
+<br>
 
 
 ### November 16th - [Guanglei Hong](https://humdev.uchicago.edu/directory/guanglei-hong)
@@ -92,3 +96,4 @@
 
 ###### Associate Professor of Comparative Human Development, Executive Committee for Computational Social Science, University of Chicago
 ##### [*Unpacking Between-Site Heterogeneity in Complex Causal Mechanisms: The National Job Corps Study*](https://github.com/uchicago-computation-workshop/guanglei_hong)
+<br>
