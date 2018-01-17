@@ -40,7 +40,7 @@
 
 ### November 9th - [Damon Centola](https://www.asc.upenn.edu/people/faculty/damon-centola-phd)
 
-<div><img src="https://en.wikipedia.org/wiki/Damon_Centola#/media/File:Damon_Centola.jpg" width="200" height="200"></div>
+<div><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Damon_Centola.jpg" width="200" height="200"></div>
 
 ###### Associate Professor in the Annenberg School for Communication, Director of the Network Dynamics Group, University of Pennsylvania
 ##### [*Network Dynamics of Social Influence in the Wisdom of Crowds*](https://github.com/uchicago-computation-workshop/damon_centola)
