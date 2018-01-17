@@ -1,6 +1,8 @@
 # Computational Social Science Workshop Calendar
 
-## Winter 2018
+---
+
+# Winter 2018
 
 ### Thursday's, 11:00am-12:20pm, Kent 120
 
@@ -44,7 +46,7 @@
 ##### [*Open Source Modeling for Policy Analysis and Research*](https://github.com/uchicago-computation-workshop/richard_evans)
 <br>
 
-
+---
 
 ## Fall 2017
 
