@@ -11,11 +11,13 @@
 
 
 
-### October 5th
-### [Luís M. A. Bettencourt](https://www.santafe.edu/people/profile/luis-bettencourt)
-###### Professor of Ecology and Evolution
-###### Pritzker Director of the Mansueto Institute for Urban Innovation
-##### University of Chicago
+### October 5th - [Luís M. A. Bettencourt](https://www.santafe.edu/people/profile/luis-bettencourt)
+
+<div><img src="https://sfi-edu.s3.amazonaws.com/sfi-edu/production/uploads/people/images/Luis-Bettencourt-sepia-400x400_6775bb.jpg.400x400_q85_box-0%2C0%2C400%2C400_upscale.jpg" width="200" height="200"></div>
+
+###### Professor of Ecology and Evolution, Pritzker Director of the Mansueto Institute for Urban Innovation, University of Chicago
+##### *Information, Spatial Selection, and the Statistics of Neighborhoods*
+
 
 
 ### October 12th - [Ben Zhao](http://people.cs.uchicago.edu/~ravenben/)
@@ -23,38 +25,18 @@
 <div><img src="http://people.cs.uchicago.edu/~ravenben/images/ben-sf.jpg" width="200" height="200"></div>
 
 ###### Neubauer Professor of Computer Science, Co-Director at the Systems, Algorithms, Networking, and Data Lab, University of Chicago
-##### *Title of Talk*
+##### *Gender Bias in the Job Market: A Longitudinal Analysis*
 
 
-### October 12th
-### [Ben Zhao](http://people.cs.uchicago.edu/~ravenben/)
-###### Neubauer Professor of Computer Science
-###### Co-Director at the Systems, Algorithms, Networking, and Data Lab
-##### University of Chicago
+
+### October 26th - [Santo Fortunato](http://cnets.indiana.edu/people/santo-fortunato/")
+
+<div><img src="http://cnets.indiana.edu/wp-content/uploads/2015/12/Santo-Fortunato.jpg" width="200" height="200"></div>
+
+###### Professor in the School of Informatics and Computing, Director of the Center for Complex Networks and Systems Research, Indiana University - Bloomington
+##### *Science of Science: University, Reputation, Attention, Inflation, and Novelty*
 
 
-<h3 class=pfblock-header4> October 12th </h3>
-<h3 class=pfblock-header4><a href="http://people.cs.uchicago.edu/~ravenben/"> Ben Zhao </a> </h3>
-<h6 class=pfblock-header4>Neubauer Professor of Computer Science, Co-Director at the Systems, Algorithms, Networking, and Data Lab at the</h6>
-<h5 class=pfblock-header4>University of Chicago</h5>
-<br>
-
-
-<h3 class=pfblock-header4> October 19th </h3>
-<h3 class=pfblock-header4> TBD </h3>
-<br>
-
-
-<h3 class=pfblock-header4> October 26th </h3>
-<h3 class=pfblock-header4><a href="http://cnets.indiana.edu/people/santo-fortunato/"> Santo Fortunato </a> </h3>
-<h6 class=pfblock-header4>Professor in the School of Informatics and Computing, Director of the Center for Complex Networks and Systems Research at</h6>
-<h5 class=pfblock-header4>Indiana University - Bloomington</h5>
-<br>
-
-
-<h3 class=pfblock-header4> November 2nd </h3>
-<h3 class=pfblock-header4>TBD </h3>
-<br>
 
 
 <h3 class=pfblock-header4>November 9th </h3>
