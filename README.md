@@ -72,7 +72,7 @@
 <div><img src="https://avatars3.githubusercontent.com/u/32048906?s=200&v=4" width="200" height="200"></div>
 
 ###### An Opportunity for Second Year MACSS Students to Present Their Thesis Research
-##### [*Student Speakers and Talks TBD*](https://github.com/uchicago-computation-workshop/winter_conference)
+##### [*Student Speakers and Talks TBD*](https://github.com/uchicago-computation-workshop/2018_winter_conference)
 <br>
 
 
