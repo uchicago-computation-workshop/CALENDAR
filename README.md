@@ -46,6 +46,36 @@
 ##### [*Open Source Modeling for Policy Analysis and Research*](https://github.com/uchicago-computation-workshop/richard_evans)
 <br>
 
+
+
+### February 15th - [Leslie Kay](https://imb.uchicago.edu/directory/leslie-m-kay-phd)
+
+<div><img src="https://macss.uchicago.edu/sites/macss.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/kay.jpg" width="200" height="200"></div>
+
+###### Professor, Department of Psychology and The College, University of Chicago
+##### [*Title TBD*](https://github.com/uchicago-computation-workshop/leslie_kay)
+<br>
+
+
+
+### February 22nd - [Laura Nelson](https://www.northeastern.edu/cssh/faculty/laura-nelson)
+
+<div><img src="https://www.northeastern.edu/cssh/wp-content/uploads/2016/09/SOCANT-Nelson-web.jpg" width="200" height="200"></div>
+
+###### Assistant Professor of Sociology, College of Social Sciences and Humanities, Northeastern University
+##### [*Title TBD*](https://github.com/uchicago-computation-workshop/laura_nelson)
+<br>
+
+
+### March 1st - [MACSS Student Conference](https://macss.uchicago.edu/)
+
+<div><img src="https://avatars3.githubusercontent.com/u/32048906?s=200&v=4" width="200" height="200"></div>
+
+###### An Opportunity for Second Year MACSS Students to Present Their Thesis Research
+##### [*Student Speakers and Talks TBD*](https://github.com/uchicago-computation-workshop/winter_conference)
+<br>
+
+
 ---
 
 ## Fall 2017
