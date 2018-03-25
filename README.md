@@ -2,6 +2,93 @@
 
 ---
 
+
+# Spring 2018
+
+### Thursday's, 11:00am-12:20pm, Kent 120
+
+
+
+### March 29th - [MACSS Student Conference](https://macss.uchicago.edu/)
+
+<div><img src="https://avatars3.githubusercontent.com/u/32048906?s=200&v=4" width="200" height="200"></div>
+
+###### An Opportunity for Second Year MACSS Students to Present Their Thesis Research
+##### [*2nd Year Lightning Talks*](https://github.com/uchicago-computation-workshop/2018_spring_conference)
+###### *NOTE: Special Time and Location:* **Thursday, 5-7pm - Social Science Research Building 122** 
+<br>
+
+
+### April 5th - [Chris Bail](http://www.chrisbail.net)
+
+<div><img src="https://scholars.duke.edu/file/i1729802/image_1729802.jpg" width="200" height="200"></div>
+
+###### Douglas and Ellen Lowey Associate Professor of Sociology and Public Policy, Duke University
+##### [*TBD*](https://github.com/uchicago-computation-workshop/chris_bail)
+<br>
+
+
+
+### April 12th - [Ben Golub](http://www.people.fas.harvard.edu/~bgolub/)
+
+<div><img src="https://qph.fs.quoracdn.net/main-thumb-607-200-2gFVy47ImNRlyLxNBEtnc6vwf82lwnqK.jpeg" width="200" height="200"></div>
+
+###### Assistant Professor, Department of Economics, Harvard University
+##### [*TBD*](https://github.com/uchicago-computation-workshop/ben_golub)
+<br>
+
+
+
+### April 26th - [Paolo Parigi](https://www.linkedin.com/in/paolo-parigi-085782b/)
+
+<div><img src="https://media.licdn.com/dms/image/C4E03AQG5sGE-ZKgJvA/profile-displayphoto-shrink_800_800/0?e=1527192000&v=alpha&t=16o9qg_Oe4pJ0xKPYO86vfmezyYUoyJ89cT2NgJyK88" width="200" height="200"></div>
+
+###### Lead Trust Scientist, Airbnb
+##### [*TBD*](https://github.com/uchicago-computation-workshop/paolo_parigi)
+<br>
+
+
+
+### May 4th - [Glen Weyl](http://glenweyl.com)
+
+<div><img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/glenweyl-e1460575878986-360x360.jpg" width="200" height="200"></div>
+
+###### Principal Researcher at Microsoft Research New England, Visiting Senior Research Scholar, Yale University
+##### [*TBD*](https://github.com/uchicago-computation-workshop/glen_weyl)
+###### *NOTE: Special Time and Location:* **Friday - TBD** 
+<br>
+
+
+
+### May 10th - [Kathleen Cagney](https://sociology.uchicago.edu/directory/kathleen-cagney)
+
+<div><img src="https://macss-sites.uchicago.edu/sites/macss.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/Kate_0.jpg?itok=radWg1Eb" width="200" height="200"></div>
+
+###### Associate Professor, Sociology; Health Studies Director, Population Research Center, NORC; Executive Committee Member, Masters in Computational Social Science Program
+##### [*TBD*](https://github.com/uchicago-computation-workshop/kathleen_cagney)
+<br>
+
+
+### May 17th - [Andres Gomez](https://growthlab.cid.harvard.edu/people/andres-gomez)
+
+<div><img src="https://static.projects.iq.harvard.edu/files/styles/profile_full/public/growthlab/files/dsc09245.jpg?m=1515714017&itok=DCutgZry" width="200" height="200"></div>
+
+###### Postdoctoral Fellow at the Center for International Development, Harvard University
+##### [*TBD*](https://github.com/uchicago-computation-workshop/andres_gomez)
+<br>
+
+
+### May 24th - [Bogdan State](https://www.linkedin.com/in/bogdan-state-72782a53/)
+
+<div><img src="https://media.licdn.com/dms/image/C5103AQFlqdLuUMdRuQ/profile-displayphoto-shrink_200_200/0?e=1527192000&v=alpha&t=8RbsjnmB5Wb3aswWC-AVIulXh5vu5ht0_bT8Ik5rS4c" width="200" height="200"></div>
+
+###### Data Scientist, Facebook
+##### [*TBD*](https://github.com/uchicago-computation-workshop/bogdan_state)
+<br>
+
+
+---
+
 # Winter 2018
 
 ### Thursday's, 11:00am-12:20pm, Kent 120
@@ -67,13 +154,6 @@
 <br>
 
 
-### March 1st - [MACSS Student Conference](https://macss.uchicago.edu/)
-
-<div><img src="https://avatars3.githubusercontent.com/u/32048906?s=200&v=4" width="200" height="200"></div>
-
-###### An Opportunity for Second Year MACSS Students to Present Their Thesis Research
-##### [*Student Speakers and Talks TBD*](https://github.com/uchicago-computation-workshop/2018_winter_conference)
-<br>
 
 
 ---
