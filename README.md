@@ -24,7 +24,7 @@
 <div><img src="https://scholars.duke.edu/file/i1729802/image_1729802.jpg" width="200" height="200"></div>
 
 ###### Douglas and Ellen Lowey Associate Professor of Sociology and Public Policy, Duke University
-##### [*TBD*](https://github.com/uchicago-computation-workshop/chris_bail)
+##### [*Talk Title TBD*](https://github.com/uchicago-computation-workshop/chris_bail)
 <br>
 
 
@@ -34,7 +34,7 @@
 <div><img src="https://qph.fs.quoracdn.net/main-thumb-607-200-2gFVy47ImNRlyLxNBEtnc6vwf82lwnqK.jpeg" width="200" height="200"></div>
 
 ###### Assistant Professor, Department of Economics, Harvard University
-##### [*TBD*](https://github.com/uchicago-computation-workshop/ben_golub)
+##### [*Talk Title TBD*](https://github.com/uchicago-computation-workshop/ben_golub)
 <br>
 
 
@@ -44,7 +44,7 @@
 <div><img src="https://media.licdn.com/dms/image/C4E03AQG5sGE-ZKgJvA/profile-displayphoto-shrink_800_800/0?e=1527192000&v=alpha&t=16o9qg_Oe4pJ0xKPYO86vfmezyYUoyJ89cT2NgJyK88" width="200" height="200"></div>
 
 ###### Lead Trust Scientist, Airbnb
-##### [*TBD*](https://github.com/uchicago-computation-workshop/paolo_parigi)
+##### [*Talk Title TBD*](https://github.com/uchicago-computation-workshop/paolo_parigi)
 <br>
 
 
@@ -54,7 +54,7 @@
 <div><img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/glenweyl-e1460575878986-360x360.jpg" width="200" height="200"></div>
 
 ###### Principal Researcher at Microsoft Research New England, Visiting Senior Research Scholar, Yale University
-##### [*TBD*](https://github.com/uchicago-computation-workshop/glen_weyl)
+##### [*Talk Title TBD*](https://github.com/uchicago-computation-workshop/glen_weyl)
 ###### *NOTE: Special Time and Location:* **Friday - TBD** 
 <br>
 
@@ -64,8 +64,8 @@
 
 <div><img src="https://macss-sites.uchicago.edu/sites/macss.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/Kate_0.jpg?itok=radWg1Eb" width="200" height="200"></div>
 
-###### Associate Professor, Sociology; Health Studies Director, Population Research Center, NORC; Executive Committee Member, Masters in Computational Social Science Program
-##### [*TBD*](https://github.com/uchicago-computation-workshop/kathleen_cagney)
+###### Associate Professor, Sociology; Health Studies Director, Population Research Center, NORC; Executive Committee Member, Masters in Computational Social Science Program, University of Chicago
+##### [*Talk Title TBD*](https://github.com/uchicago-computation-workshop/kathleen_cagney)
 <br>
 
 
@@ -74,7 +74,7 @@
 <div><img src="https://static.projects.iq.harvard.edu/files/styles/profile_full/public/growthlab/files/dsc09245.jpg?m=1515714017&itok=DCutgZry" width="200" height="200"></div>
 
 ###### Postdoctoral Fellow at the Center for International Development, Harvard University
-##### [*TBD*](https://github.com/uchicago-computation-workshop/andres_gomez)
+##### [*Talk Title TBD*](https://github.com/uchicago-computation-workshop/andres_gomez)
 <br>
 
 
@@ -83,7 +83,7 @@
 <div><img src="https://media.licdn.com/dms/image/C5103AQFlqdLuUMdRuQ/profile-displayphoto-shrink_200_200/0?e=1527192000&v=alpha&t=8RbsjnmB5Wb3aswWC-AVIulXh5vu5ht0_bT8Ik5rS4c" width="200" height="200"></div>
 
 ###### Data Scientist, Facebook
-##### [*TBD*](https://github.com/uchicago-computation-workshop/bogdan_state)
+##### [*Talk Title TBD*](https://github.com/uchicago-computation-workshop/bogdan_state)
 <br>
 
 
@@ -140,7 +140,7 @@
 <div><img src="https://macss.uchicago.edu/sites/macss.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/kay.jpg" width="200" height="200"></div>
 
 ###### Professor, Department of Psychology and The College, University of Chicago
-##### [*Title TBD*](https://github.com/uchicago-computation-workshop/leslie_kay)
+##### [*How the Questions We Ask Affect the Answers We Get: A Lesson from Asking Rats How They Smell*](https://github.com/uchicago-computation-workshop/leslie_kay)
 <br>
 
 
@@ -150,7 +150,7 @@
 <div><img src="https://www.northeastern.edu/cssh/wp-content/uploads/2016/09/SOCANT-Nelson-web.jpg" width="200" height="200"></div>
 
 ###### Assistant Professor of Sociology, College of Social Sciences and Humanities, Northeastern University
-##### [*Title TBD*](https://github.com/uchicago-computation-workshop/laura_nelson)
+##### [*Cycles of Conflict, A Century of Continuity: Using Computational Methods to Measure Why Some Ideas Succeed and Others Fail*](https://github.com/uchicago-computation-workshop/laura_nelson)
 <br>
 
 
