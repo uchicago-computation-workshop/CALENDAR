@@ -20,7 +20,7 @@
 
 ### October 18th - [Zizi Pappachrissi](https://zizi.people.uic.edu/Site/ziziweb.html)
 
-<div><img src="https://static.las.uic.edu/images/bio-photos/zizi.jpg" width="200" height="200"></div>
+<div><img src="https://static.las.uic.edu/images/bio-photos/zizi.jpg" width="150" height="200"></div>
 
 ###### Professor and Department Head of Communication, Professor of Political Science, University of Illinois at Chicago
 ##### [*Affective Publics: News Storytelling, Sentiment and Technology*](https://github.com/uchicago-computation-workshop/zizi-pappachrissi)
