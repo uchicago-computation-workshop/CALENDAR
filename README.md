@@ -18,7 +18,7 @@
 ### October 12th - TBD
 
 
-### October 18th - [Zizi Pappachrissi](https://zizi.people.uic.edu/Site/ziziweb.html)
+### October 18th - [Zizi Papacharissi](https://zizi.people.uic.edu/Site/ziziweb.html)
 
 <div><img src="https://static.las.uic.edu/images/bio-photos/zizi.jpg" width="150" height="200"></div>
 
