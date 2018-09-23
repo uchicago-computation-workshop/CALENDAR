@@ -1,6 +1,5 @@
 # Computational Social Science Workshop Calendar
 
----
 
 ## Fall 2018
 
@@ -179,7 +178,6 @@
 
 # Past Speakers
 
----
 
 ## Winter 2018
 
