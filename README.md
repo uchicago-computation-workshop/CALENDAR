@@ -4,19 +4,19 @@
 
 ## Fall 2018
 
-### Thursday's, 11:00am-12:20pm, Kent 120
-
+### Thursday's, 11:00am-12:20pm, Kent 120  
+<br>  
 
 
 ### October 4th - [Mixer with CSS Faculty](https://macss.uchicago.edu/content/meet-our-faculty-staff)
 
 <div><img src="https://avatars3.githubusercontent.com/u/32048906?s=200&v=4" width="200" height="200"></div>
 
-<br>
+<br>  
 
 
-### October 12th - TBD
-
+### October 11th - TBD  
+<br>  
 
 ### October 18th - [Zizi Papacharissi](https://zizi.people.uic.edu/Site/ziziweb.html)
 
@@ -24,19 +24,160 @@
 
 ###### Professor and Department Head of Communication, Professor of Political Science, University of Illinois at Chicago
 ##### [*Affective Publics: News Storytelling, Sentiment and Technology*](https://github.com/uchicago-computation-workshop/zizi-pappachrissi)
-<br>
+<br>  
 
 
-### October 25th - TBD
+### October 25th - [Steven Durlauf](http://home.uchicago.edu/sdurlauf/index.html)
 
-### November 1st - TBD
+<div><img src="https://www.ssc.wisc.edu/~sdurlauf/includes/images/Steven.jpg" width="150" height="200"></div>
 
-### November 8th - TBD
+###### Steans Professor of Educational Policy at the Harris School of Public Policy Studies, The University of Chicago  
+<br>  
 
-### November 15th - TBD
 
-### November 29th - TBD
+### November 1st - [Adam Bonica](http://web.stanford.edu/~bonica/)
 
+<div><img src="http://web.stanford.edu/~bonica/images/DSC_0331.jpg" width="150" height="200"></div>
+
+###### Associate Professor of Political Science, Stanford University  
+<br>  
+
+
+### November 8th - [Charlie Catlett](https://www.ci.uchicago.edu/profile/165)
+
+<div><img src="https://www.ci.uchicago.edu/sites/default/files/profile/charlie-catlett.jpg" width="200" height="200"></div>
+
+###### Senior Computer Scientist at Argonne National Laboratory, Senior Fellow at the Computation Institute of the University of Chicago and Argonne National Laboratory, Senior Fellow at the University of Chicago's Harris School of Public Policy  
+<br>  
+
+
+### November 15th - TBD  
+<br>  
+
+
+### November 29th - [Lillian Lee](http://www.cs.cornell.edu/home/llee/)
+
+<div><img src="https://cacm.acm.org/system/assets/0000/8703/073012.JK.Lillian.Lee.large.jpeg?1476779413&1343676856" width="200" height="200"></div>
+
+###### Professor, Department of Computer Science and Department of Information Science, Cornell University  
+<br>  
+
+---
+
+# Winter 2019
+
+### Thursday's, 11:00am-12:20pm, Kent 120
+<br>  
+
+
+### January 10th - [Ed Awh](https://psychology.uchicago.edu/directory/edward-s-awh)
+
+<div><img src="https://awhvogellab.files.wordpress.com/2015/08/awh.jpg?w=208&h=185" width="200" height="200"></div>
+
+###### Professor, Department of Psychology, The Institute for Mind and Biology, and the Grossman Institute for Neuroscience, Quantitative Biology and Human Behavior, University of Chicago
+<br>  
+
+
+### January 17th - [Nicolas Masse](https://www.linkedin.com/in/nicolas-masse-43806a1a/)
+
+<div><img src="https://i1.rgstatic.net/ii/profile.image/272606653841423-1442005899331_Q512/Nicolas_Masse.jpg" width="200" height="200"></div>
+
+###### Postdoctoral Scholar and Staff Scientist, Department of Neurobiology, University of Chicago
+<br>  
+
+
+### January 24th - TBD
+<br>  
+
+
+### January 31st - TBD
+<br>  
+
+
+### February 7th - [Tor Wager](https://www.colorado.edu/neuroscience/tor-wager)
+
+<div><img src="https://www.colorado.edu/psych-neuro/sites/default/files/styles/small/public/people/wager450x300.jpg?itok=7MKlv9X4" width="150" height="200"></div>
+
+###### Professor of Psychology and Neuroscience, Director of the Cognitive and Affective Neuroscience Laboratory, University of Colorado Boulder
+<br> 
+
+
+### February 14th - [Monica Rosenberg](http://monicarosenberg.org/)
+
+<div><img src="http://monicarosenberg.org/mdr.jpg" width="200" height="200"></div>
+
+###### Postdoctoral Associate, Department of Psychology, Yale University
+<br> 
+
+
+### February 21st - TBD
+<br>  
+
+
+### February 28th - TBD
+<br>  
+
+
+### March 7th - [MACSS Student Conference](https://macss.uchicago.edu/)
+
+<div><img src="https://avatars3.githubusercontent.com/u/32048906?s=200&v=4" width="200" height="200"></div>
+
+###### An Opportunity for Second Year MACSS Students to Present Their Thesis Research
+##### [*2nd Year Lightning Talks*](https://github.com/uchicago-computation-workshop/2018_spring_conference)
+###### *NOTE: Special Time and Location:* **Thursday, 5-7pm - Social Science Research Building 122** 
+<br>  
+
+---
+
+# Spring 2019
+
+### Thursday's, 11:00am-12:20pm, Kent 120
+<br>  
+
+
+### April 4th - TBD
+<br>  
+
+
+### April 11th - [Abdullah Almaatouq](http://www.amaatouq.com/)
+
+<div><img src="https://static1.squarespace.com/static/57c1db34579fb31c1f913930/t/59e171437131a56efb502184/1507947049942/AAlmaatouq_vermont_hike.JPG?format=1000w" width="200" height="200"></div>
+
+###### Ph.D. Student and Research Assistant, Computational Science & Engineering, Massachusetts Institute of Technology (MIT)
+<br>  
+
+
+### April 18th - TBD
+<br>  
+
+
+### April 25th - TBD
+<br>  
+
+
+### May 2nd - TBD
+<br>  
+
+
+### May 9th - TBD
+<br>  
+
+
+### May 16th - TBD
+<br>  
+
+
+### May 23rd - TBD
+<br>  
+
+
+### May - 30th - TBD
+<br>  
+
+
+---
+
+# Past Speakers
 
 ---
 
