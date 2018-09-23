@@ -64,7 +64,7 @@
 
 ---
 
-# Winter 2019
+## Winter 2019
 
 ### Thursday's, 11:00am-12:20pm, Kent 120
 <br>  
@@ -129,7 +129,7 @@
 
 ---
 
-# Spring 2019
+## Spring 2019
 
 ### Thursday's, 11:00am-12:20pm, Kent 120
 <br>  
@@ -181,7 +181,7 @@
 
 ---
 
-# Winter 2018
+## Winter 2018
 
 ### Thursday's, 11:00am-12:20pm, Kent 120
 
@@ -249,7 +249,7 @@
 ---
 
 
-# Spring 2018
+## Spring 2018
 
 ### Thursday's, 11:00am-12:20pm, Kent 120
 
