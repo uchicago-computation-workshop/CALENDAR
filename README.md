@@ -17,6 +17,7 @@
 ### October 11th - TBD  
 <br>  
 
+
 ### October 18th - [Zizi Papacharissi](https://zizi.people.uic.edu/Site/ziziweb.html)
 
 <div><img src="https://static.las.uic.edu/images/bio-photos/zizi.jpg" width="150" height="200"></div>
@@ -31,14 +32,6 @@
 <div><img src="https://www.ssc.wisc.edu/~sdurlauf/includes/images/Steven.jpg" width="150" height="200"></div>
 
 ###### Steans Professor of Educational Policy at the Harris School of Public Policy Studies, The University of Chicago  
-<br>  
-
-
-### November 1st - [Adam Bonica](http://web.stanford.edu/~bonica/)
-
-<div><img src="http://web.stanford.edu/~bonica/images/DSC_0331.jpg" width="150" height="200"></div>
-
-###### Associate Professor of Political Science, Stanford University  
 <br>  
 
 
@@ -85,8 +78,12 @@
 <br>  
 
 
-### January 24th - TBD
-<br>  
+### January 24th - [Adam Bonica](http://web.stanford.edu/~bonica/)
+
+<div><img src="http://web.stanford.edu/~bonica/images/DSC_0331.jpg" width="150" height="200"></div>
+
+###### Associate Professor of Political Science, Stanford University  
+<br>
 
 
 ### January 31st - TBD
