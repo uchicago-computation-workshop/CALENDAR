@@ -14,7 +14,12 @@
 <br>  
 
 
-### October 11th - TBD  
+### October 11th - [Marc Berman](https://macss.uchicago.edu/directory/marc-berman)
+
+<div><img src="http://enl.uchicago.edu/wp-content/uploads/2015/09/Berman_v1-305x400.jpg" width="150" height="200"></div>
+
+###### Faculty Director for the Masters in Computational Social Science Program; Assistant Professor in the Department of Psychology, University of Chicago
+
 <br>  
 
 
@@ -23,6 +28,7 @@
 <div><img src="https://static.las.uic.edu/images/bio-photos/zizi.jpg" width="150" height="200"></div>
 
 ###### Professor and Department Head of Communication, Professor of Political Science, University of Illinois at Chicago
+
 ##### [*Affective Publics: News Storytelling, Sentiment and Technology*](https://github.com/uchicago-computation-workshop/zizi-pappachrissi)
 <br>  
 
@@ -40,10 +46,7 @@
 <div><img src="https://www.ci.uchicago.edu/sites/default/files/profile/charlie-catlett.jpg" width="200" height="200"></div>
 
 ###### Senior Computer Scientist at Argonne National Laboratory, Senior Fellow at the Computation Institute of the University of Chicago and Argonne National Laboratory, Senior Fellow at the University of Chicago's Harris School of Public Policy  
-<br>  
 
-
-### November 15th - TBD  
 <br>  
 
 
