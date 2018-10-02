@@ -33,14 +33,6 @@
 <br>  
 
 
-### October 25th - [Steven Durlauf](http://home.uchicago.edu/sdurlauf/index.html)
-
-<div><img src="https://www.ssc.wisc.edu/~sdurlauf/includes/images/Steven.jpg" width="150" height="200"></div>
-
-###### Steans Professor of Educational Policy at the Harris School of Public Policy Studies, The University of Chicago  
-<br>  
-
-
 ### November 8th - [Charlie Catlett](https://www.ci.uchicago.edu/profile/165)
 
 <div><img src="https://www.ci.uchicago.edu/sites/default/files/profile/charlie-catlett.jpg" width="200" height="200"></div>
