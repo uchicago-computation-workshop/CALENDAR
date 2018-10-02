@@ -45,7 +45,7 @@
 
 <div><img src="https://www.ci.uchicago.edu/sites/default/files/profile/charlie-catlett.jpg" width="200" height="200"></div>
 
-###### Senior Computer Scientist at Argonne National Laboratory, Senior Fellow at the Computation Institute of the University of Chicago and Argonne National Laboratory, Senior Fellow at the University of Chicago's Harris School of Public Policy  
+###### Director of Urban Center for Computation and Data, Senior Computer Scientist at Argonne National Laboratory, Senior Fellow at the Computation Institute of the University of Chicago and Argonne National Laboratory  
 
 <br>  
 
