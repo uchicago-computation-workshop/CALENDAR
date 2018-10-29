@@ -81,18 +81,6 @@
 <br>
 
 
-### January 31st - TBD
-<br>  
-
-
-### February 7th - [Tor Wager](https://www.colorado.edu/neuroscience/tor-wager)
-
-<div><img src="https://www.colorado.edu/psych-neuro/sites/default/files/styles/small/public/people/wager450x300.jpg?itok=7MKlv9X4" width="150" height="200"></div>
-
-###### Professor of Psychology and Neuroscience, Director of the Cognitive and Affective Neuroscience Laboratory, University of Colorado Boulder
-<br> 
-
-
 ### February 14th - [Monica Rosenberg](http://monicarosenberg.org/)
 
 <div><img src="http://monicarosenberg.org/mdr.jpg" width="200" height="200"></div>
@@ -101,12 +89,20 @@
 <br> 
 
 
-### February 21st - TBD
-<br>  
+### February 21st - [Tor Wager](https://www.colorado.edu/neuroscience/tor-wager)
+
+<div><img src="https://www.colorado.edu/psych-neuro/sites/default/files/styles/small/public/people/wager450x300.jpg?itok=7MKlv9X4" width="150" height="200"></div>
+
+###### Professor of Psychology and Neuroscience, Director of the Cognitive and Affective Neuroscience Laboratory, University of Colorado Boulder
+<br> 
 
 
-### February 28th - TBD
-<br>  
+### February 28th - [Steven Durlauf](https://www.colorado.edu/neuroscience/tor-wager)
+
+<div><img src="http://home.uchicago.edu/sdurlauf/includes/images/Steven.jpg" width="150" height="200"></div>
+
+###### Steans Professor of Educational Policy at the Harris School of Public Policy Studies, The University of Chicago
+<br> 
 
 
 ### March 7th - [MACSS Student Conference](https://macss.uchicago.edu/)
@@ -126,7 +122,12 @@
 <br>  
 
 
-### April 4th - TBD
+### April 4th - [Amos Golan](https://www.american.edu/cas/faculty/agolan.cfm)
+#### Co-sponsored by the Quantitative Methods Committee
+
+<div><img src="https://sfi-edu.s3.amazonaws.com/sfi-edu/production/uploads/people/images/Amos-Golan-sepia-400x400_5e1e38.jpg.400x400_q85_box-0%2C0%2C400%2C400_upscale.jpg" width="200" height="200"></div>
+
+###### Professor of Economics, Director of the the Info-Metrics Institute, American University
 <br>  
 
 
@@ -138,31 +139,35 @@
 <br>  
 
 
-### April 18th - TBD
+### April 25th- [Andrey Rzhetsky](https://genes.uchicago.edu/directory/andrey-rzhetsky-phd)
+
+<div><img src="http://www.contechicago.org/sites/www.contechicago.org/files/styles/team_members/public/team_images/andreybetter.jpg" width="150" height="200"></div>
+
+###### Professor, Department of Medicine; Professor, Department of Human Genetics; Senior Fellow, Computation Institute; Senior Fellow, Institute for Genomics and Systems Biology, University of Chicago
 <br>  
 
 
-### April 25th - TBD
+### May 2nd - [Sihua (Adrienne) Hu](https://www.teachersinsocialmedia.com/who-we-are)
+
+<div><img src="https://prime.natsci.msu.edu/sites/_prime/cache/file/0C539755-BE96-0C54-552BA68A0248DB67_medium.png" width="200" height="200"></div>
+
+###### Post-doctoral Fellow, School of Education and Social Policy, Northwestern University
 <br>  
 
 
-### May 2nd - TBD
+### May 16th - [Tom Griffiths](https://psych.princeton.edu/person/tom-griffiths)
+
+<div><img src="http://cocosci.princeton.edu/tom/griffiths_0_0.jpg" width="200" height="200"></div>
+
+###### Professor of Psychology and Cognitive Science, Princeton University
 <br>  
 
 
-### May 9th - TBD
-<br>  
+### May 23rd - [Stephanie Palmer](https://pondside.uchicago.edu/oba/faculty/palmer_s.html)
 
+<div><img src="https://newfaculty.uchicago.edu/sites/newfaculty.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/Palmer%2CStephanie2.jpg?itok=JUB681Bo" width="150" height="200"></div>
 
-### May 16th - TBD
-<br>  
-
-
-### May 23rd - TBD
-<br>  
-
-
-### May - 30th - TBD
+###### Assistant Professor, Department of Organismal Biology and Anatomy, University of Chicago
 <br>  
 
 
