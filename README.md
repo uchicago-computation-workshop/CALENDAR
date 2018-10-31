@@ -30,7 +30,7 @@
 
 ###### Professor and Department Head of Communication, Professor of Political Science, University of Illinois at Chicago
 
-##### [*Affective Publics: News Storytelling, Sentiment and Technology*](https://github.com/uchicago-computation-workshop/zizi-papacharissi)
+##### [*Affective Publics: News Storytelling, Sentiment and Technology*](https://github.com/uchicago-computation-workshop/zizi_papacharissi)
 <br>  
 
 
