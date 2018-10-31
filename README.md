@@ -20,6 +20,7 @@
 
 ###### Faculty Director for the Masters in Computational Social Science Program; Assistant Professor in the Department of Psychology, University of Chicago
 
+##### [*The Fractal Brain and Cognitive Effort*](https://github.com/uchicago-computation-workshop/marc_berman)
 <br>  
 
 
@@ -29,7 +30,7 @@
 
 ###### Professor and Department Head of Communication, Professor of Political Science, University of Illinois at Chicago
 
-##### [*Affective Publics: News Storytelling, Sentiment and Technology*](https://github.com/uchicago-computation-workshop/zizi-pappachrissi)
+##### [*Affective Publics: News Storytelling, Sentiment and Technology*](https://github.com/uchicago-computation-workshop/zizi-papacharissi)
 <br>  
 
 
@@ -39,6 +40,7 @@
 
 ###### Director of Urban Center for Computation and Data, Senior Computer Scientist at Argonne National Laboratory, Senior Fellow at the Computation Institute of the University of Chicago and Argonne National Laboratory  
 
+##### [*Understanding Cities through Measurement and Embedded Intelligence*](https://github.com/uchicago-computation-workshop/charlie_catlett)
 <br>  
 
 
