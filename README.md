@@ -36,7 +36,7 @@
 
 ### November 8th - [Charlie Catlett](https://www.ci.uchicago.edu/profile/165)
 
-<div><img src="https://www.ci.uchicago.edu/sites/default/files/profile/charlie-catlett.jpg" width="200" height="200"></div>
+<div><img src="https://static1.squarespace.com/static/5512f522e4b06a6b8efa5c17/t/573f3a802eeb814f2cd9e066/1463761580141/CharlieCatlett" width="400" height="200"></div>
 
 ###### Director of Urban Center for Computation and Data, Senior Computer Scientist at Argonne National Laboratory, Senior Fellow at the Computation Institute of the University of Chicago and Argonne National Laboratory  
 
@@ -99,7 +99,7 @@
 <br> 
 
 
-### February 28th - [Steven Durlauf](https://www.colorado.edu/neuroscience/tor-wager)
+### February 28th - [Steven Durlauf](http://home.uchicago.edu/sdurlauf/index.html)
 
 <div><img src="http://home.uchicago.edu/sdurlauf/includes/images/Steven.jpg" width="150" height="200"></div>
 
