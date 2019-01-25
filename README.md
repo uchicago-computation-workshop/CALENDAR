@@ -36,7 +36,7 @@
 
 ### November 8th - [Charlie Catlett](https://www.ci.uchicago.edu/profile/165)
 
-<div><img src="https://static1.squarespace.com/static/5512f522e4b06a6b8efa5c17/t/573f3a802eeb814f2cd9e066/1463761580141/CharlieCatlett" width="400" height="200"></div>
+<div><img src="https://static1.squarespace.com/static/5512f522e4b06a6b8efa5c17/t/573f3a802eeb814f2cd9e066/1463761580141/CharlieCatlett" width="200" height="150"></div>
 
 ###### Director of Urban Center for Computation and Data, Senior Computer Scientist at Argonne National Laboratory, Senior Fellow at the Computation Institute of the University of Chicago and Argonne National Laboratory  
 
@@ -106,16 +106,6 @@
 ###### Steans Professor of Educational Policy at the Harris School of Public Policy Studies, The University of Chicago
 <br> 
 
-
-### March 7th - [MACSS Student Conference](https://macss.uchicago.edu/)
-
-<div><img src="https://avatars3.githubusercontent.com/u/32048906?s=200&v=4" width="200" height="200"></div>
-
-###### An Opportunity for Second Year MACSS Students to Present Their Thesis Research
-##### [*2nd Year Lightning Talks*](https://github.com/uchicago-computation-workshop/2018_spring_conference)
-###### *NOTE: Special Time and Location:* **Thursday, 5-7pm - Social Science Research Building 122** 
-<br>  
-
 ---
 
 ## Spring 2019
@@ -135,15 +125,25 @@
 
 ### April 11th - [Abdullah Almaatouq](http://www.amaatouq.com/)
 
-<div><img src="https://static1.squarespace.com/static/57c1db34579fb31c1f913930/t/59e171437131a56efb502184/1507947049942/AAlmaatouq_vermont_hike.JPG?format=1000w" width="200" height="200"></div>
+<div><img src="https://pbs.twimg.com/profile_images/1036191444233580546/NXwtB_Rc_400x400.jpg" width="200" height="200"></div>
 
 ###### Ph.D. Student and Research Assistant, Computational Science & Engineering, Massachusetts Institute of Technology (MIT)
 <br>  
 
 
+### April 18th - [MACSS Student Conference](https://macss.uchicago.edu/)
+
+<div><img src="https://avatars3.githubusercontent.com/u/32048906?s=200&v=4" width="200" height="200"></div>
+
+###### An Opportunity for Second Year MACSS Students to Present Their Thesis Research
+##### [*2nd Year Lightning Talks*](https://github.com/uchicago-computation-workshop/2018_spring_conference)
+###### *NOTE: Special Time and Location:* **Thursday, 5-7pm - Social Science Research Building 122** 
+<br>  
+
+
 ### April 25th- [Andrey Rzhetsky](https://genes.uchicago.edu/directory/andrey-rzhetsky-phd)
 
-<div><img src="http://www.contechicago.org/sites/www.contechicago.org/files/styles/team_members/public/team_images/andreybetter.jpg" width="150" height="200"></div>
+<div><img src="https://d3qi0qp55mx5f5.cloudfront.net/knowledgelab/i/manipulated/https_d3qi0qp55mx5f5.cloudfront.net/knowledgelab/i/people/53e9d57bfcf38c83a95a467e7d5d888d/rz1.jpg" width="200" height="150"></div>
 
 ###### Professor, Department of Medicine; Professor, Department of Human Genetics; Senior Fellow, Computation Institute; Senior Fellow, Institute for Genomics and Systems Biology, University of Chicago
 <br>  
