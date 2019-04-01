@@ -149,11 +149,11 @@
 <br>  
 
 
-### May 2nd - [Sihua (Adrienne) Hu](https://www.teachersinsocialmedia.com/who-we-are)
+### May 2nd - [Kaitlin Torphy, Ken Frank, Jiliang Tang](https://www.teachersinsocialmedia.com/who-we-are)
 
-<div><img src="https://prime.natsci.msu.edu/sites/_prime/cache/file/0C539755-BE96-0C54-552BA68A0248DB67_medium.png" width="200" height="200"></div>
+<div><img src="https://static.wixstatic.com/media/6436b2_123301880da04792b60992cdf2e5707f~mv2.jpg" width="200" height="200"></div>
 
-###### Post-doctoral Fellow, School of Education and Social Policy, Northwestern University
+###### Interdisciplinary Team of the Teachers in Social Media Project, Michigan State University
 <br>  
 
 
