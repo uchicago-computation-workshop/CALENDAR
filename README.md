@@ -149,7 +149,7 @@
 <br>  
 
 
-### May 2nd - [Kaitlin Torphy, Ken Frank, Jiliang Tang](https://www.teachersinsocialmedia.com/who-we-are)
+### May 2nd - [Kaitlin Torphy, Ken Frank, Hamid Karimi](https://www.teachersinsocialmedia.com/who-we-are)
 
 <div><img src="https://static.wixstatic.com/media/6436b2_123301880da04792b60992cdf2e5707f~mv2.jpg" width="200" height="200"></div>
 
